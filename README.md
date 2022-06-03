@@ -1,2 +1,2 @@
 # first-repo
-demo for my first repository
+demo for my first repository;
